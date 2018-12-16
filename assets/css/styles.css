@@ -1,0 +1,10 @@
+.pc-multiple-images-preview {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.pc-multiple-images-preview img {
+    width: 60px;
+    margin-bottom: 5px;
+}
